@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+My research is informed by and grows out of my dual training as both a social and behavioral health researcher (MSW in Macro Social Work with an emphasis on community health) and my doctoral training in cultural studies, specifically gender and sexuality studies. I siutuate my work squarely within feminist and queer cultural studies as well as the emerging sub-field of critical health studies. Broadly speaking, in my research I trace the histories of specific social and political moments in order to understand their impact and meaning today.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Critical Health Studies**
+- **Queer Theory**
+- **Histories of Feminist and Queer Public Health**
 
 {% include_relative _includes/education.md %}
 
