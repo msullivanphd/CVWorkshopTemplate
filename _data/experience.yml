@@ -12,7 +12,7 @@ main:
     - type: education
     degreepath: Master of Social Work # for type.education.
     institution: Boston University
-    department: Macro Practice - Community Health
+    department: Macro Practice Community Health
     #advisors: Jane Doe, John Doe # for type.education.
     #thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2007 
